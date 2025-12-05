@@ -49,3 +49,7 @@ For every month, Ramznegar studies:
   - Correlation matrices
   - Correlation heatmaps
   - Correlation and diversification analysis
+
+
+link of the publication (kharazmi university): https://fs.khu.ac.ir/page/29975/%D9%86%D8%B4%D8%B1%DB%8C%D9%87-%D8%B1%D9%85%D8%B2%D9%86%DA%AF%D8%A7%D8%B1-_YW_PAR_OPEN_%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%B9%D9%84%D9%85%DB%8C_YW_PAR_CLOSE_
+
