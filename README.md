@@ -11,7 +11,7 @@ Each monthly issue is a **single Jupyter notebook** that contains all the code u
 
 ---
 
-## 🔎 What Ramznegar Analyzes
+## What Ramznegar Analyzes
 
 For every month, Ramznegar studies:
 
